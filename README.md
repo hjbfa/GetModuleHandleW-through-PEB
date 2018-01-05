@@ -5,6 +5,8 @@ Written in C.
 
 Compatible with Windows x86/WoW64 OS.
 
+Result (ASLR enabled):
+
 ![alt text](https://i.imgur.com/xEVZtrx.png)
 
 Credits to nirsoft for the documented PEB structures.
