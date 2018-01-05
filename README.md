@@ -1,5 +1,5 @@
-# GetModuleBaseW-through-PEB
-A custom GetModuleBaseW implementation through the PEB (InLoadOrderModuleList method).
+# GetModuleHandleW-through-PEB
+A custom GetModuleHandleW implementation through the PEB (InLoadOrderModuleList method).
 
 Written in C.
 
